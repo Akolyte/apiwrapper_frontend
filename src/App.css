@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+#textInput {
+  width: 600px;
+  height: 200px;
+  font-size: 20px;
+}
+
+#submitButton {
+  width: 200px;
+  height: 210px;
+  font-size: 20px;
+}
+
+.form-wrapper {
+  display: flex;
+  align-items: flex-start; /* Aligns items to the top of the flex container */
+}
